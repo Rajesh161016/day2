@@ -28,7 +28,9 @@
 
 }
 .bg_container{
-    margin:8px;
+    background-color: black;
+    background-size: cover;
+
 }
 
 
