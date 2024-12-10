@@ -1,26 +1,77 @@
 
-.block1,.block2{
+.block1,.block2,.block3,.block4,.block5,.block6{
+    background-color: lightpink;
+    border-radius: 15px;
+    width: 500px;
+    height:100%;
+    padding: 50px;
+    margin: 30px;
+    display: inline-block;
 
-   background-color: aquamarine;
-   padding: 60px;
-   margin: 60px;
-   border-radius: 10px;
-   width: 400px;
-   text-align: center;
-   display: inline-block;
+   
 
 }
 
-
-
-
-
-.bg_container{
+.box{
     background-color:black;
-    background-size: cover;
-    height: 100%;
-    padding: 20px;
+    border-radius:20px;
+    width: 150px;
+    padding: 6px;
+    margin-top: 30px;
+    border-width:0;
+    color:white;
+    font-family: Roboto;
+    box-shadow: 20px,solid;
+
 
 }
+.bg_container{
+background-color: black;
+text-align: center;
+}
+h1{
+    font-size:x-large;
+}
 
+p{
+    font-size:large;
 
+}
+.card{
+    border-radius: 15px;
+    width:350px;
+    text-align: center;
+    padding: 50px;
+    margin: 40px;
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bolder;
+    color: black;
+    
+}
+
+.card2{
+    border-radius: 15px;
+    width:130px;
+    text-align: center;
+    padding: 50px;
+    margin: 40px;
+    padding-bottom: 40px;
+    display: inline-block;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+
+.card4{
+    background-color: orange;
+    border-radius: 15px;
+    width:350px;
+    text-align: center;
+    padding: 50px;
+    margin: 30px;
+    display: inline-block;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
