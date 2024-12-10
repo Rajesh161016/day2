@@ -2,8 +2,7 @@
 .block1,.block2,.block3,.block4,.block5,.block6{
     background-color: lightpink;
     border-radius: 15px;
-    width: 500px;
-    height:100%;
+    width: 30%;
     padding: 50px;
     margin: 30px;
     display: inline-block;
@@ -14,13 +13,12 @@
 
 .box{
     background-color:black;
-    border-radius:20px;
-    width: 150px;
-    padding: 6px;
-    margin-top: 30px;
+    border-radius:15px;
+    width: 35%;
+    padding: 5px;
+    margin-top: 20px;
     border-width:0;
     color:white;
-    font-family: Roboto;
     box-shadow: 20px,solid;
 
 
@@ -29,22 +27,14 @@
 background-color: black;
 text-align: center;
 }
-h1{
-    font-size:x-large;
-}
 
-p{
-    font-size:large;
-
-}
 .card{
     border-radius: 15px;
-    width:350px;
+    width:40%;
     text-align: center;
-    padding: 50px;
-    margin: 40px;
+    padding: 30px;
+    margin: 15px;
     display: inline-block;
-    font-size: x-large;
     font-weight: bolder;
     color: black;
     
@@ -52,7 +42,7 @@ p{
 
 .card2{
     border-radius: 15px;
-    width:130px;
+    width:138px;
     text-align: center;
     padding: 50px;
     margin: 40px;
@@ -66,10 +56,10 @@ p{
 .card4{
     background-color: orange;
     border-radius: 15px;
-    width:350px;
+    width:38%;
     text-align: center;
-    padding: 50px;
-    margin: 30px;
+    padding: 30px;
+    margin: 25px;
     display: inline-block;
     font-size: large;
     font-weight: bolder;
